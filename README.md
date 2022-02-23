@@ -12,7 +12,7 @@ Any links you will find below. And, a bulk of all links and information will be 
 
 ## Resources from the Workshop
 
--[Presentation slides](https://docs.google.com/presentation/d/1DH8y6xMGkS3IuoWGrCCXxqeE6ZmRCBJDqdiMtBLGpgs/edit?usp=sharing) <br>
--[Professional Resource Guide](https://docs.google.com/document/d/19O7NatuPSWLcFuuj0jERadZkXnk-cS10cTqaXjZQl7Q/edit) <br>
+- [Presentation slides](https://docs.google.com/presentation/d/1DH8y6xMGkS3IuoWGrCCXxqeE6ZmRCBJDqdiMtBLGpgs/edit?usp=sharing) <br>
+- [Professional Resource Guide](https://docs.google.com/document/d/19O7NatuPSWLcFuuj0jERadZkXnk-cS10cTqaXjZQl7Q/edit) <br>
 - [Computer Security](https://nakedsecurity.sophos.com/)
 - [Per Scholas](https://perscholas.org/news/per-scholas-and-microsoft-collaborate-to-expand-cloud-training-across-the-u-s/?utm_campaign=PR&utm_content=197540103&utm_medium=social&utm_source=facebook&hss_channel=fbp-244448625602084)
