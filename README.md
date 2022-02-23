@@ -3,7 +3,6 @@
 *Spring 2022*
 
 February 22nd, 2022 <br>
-Networking Workshop
 
 Thank you all for joining us for our **Career Prep Workshop today**. We hope you found it valuable and have learned more about what part of the tech field you'd like to get into. For anyone who missed today's meeting, our club talked about opportunities in the Software Engineering, Cybersecurity, Data Science field, and we gave some helpful tips for technical interviews, behavioral interviews and how to network. Below you will find the presentation link that contains all the links that was discussed in the meeting. Enjoy and see you at our next workshop!
 
